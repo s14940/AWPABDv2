@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWPADB", "AWPADB\AWPADB.csproj", "{B70AE9A0-302D-4C4B-AD11-A2E62347E127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70AE9A0-302D-4C4B-AD11-A2E62347E127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70AE9A0-302D-4C4B-AD11-A2E62347E127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70AE9A0-302D-4C4B-AD11-A2E62347E127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70AE9A0-302D-4C4B-AD11-A2E62347E127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0349BBAA-93F8-44A2-B8A8-080EF86E37F6}
+	EndGlobalSection
+EndGlobal
